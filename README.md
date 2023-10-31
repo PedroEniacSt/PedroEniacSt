@@ -2,8 +2,7 @@
 
 Brazillian Student from ENIAC, looking to focus on cybersecurity, reverse-engeneering and game-hacking.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroeniacst&show_icons=true&title_color=d220df&text_color=d220df&locale=en&layout=compact" alt="pedroeniacst" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedroeniacst" alt="pedroeniacst" /></a> </p>
+
 
 # Languages
 <div class="languages">
